@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042052083056",
+    "project_id": "chatapplication-1150e",
+    "storage_bucket": "chatapplication-1150e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042052083056:android:64bcd2b633dc7ad5ac73b5",
+        "android_client_info": {
+          "package_name": "com.vipin.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042052083056-jug9r8pi03rkjf22g3um8brl1vj94eqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPFEo-Ml2EXCXZanDR6CrBAf-fFEQmphM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042052083056-jug9r8pi03rkjf22g3um8brl1vj94eqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
